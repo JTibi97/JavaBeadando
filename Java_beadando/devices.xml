@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+<device>
+	<brand_name>Samsung</brand_name>
+	<phone_type>Galaxy 22</phone_type>
+	<phone_price>300000</phone_price>
+	<color>blue</color>
+</device>
+<device>
+	<brand_name>Huawei</brand_name>
+	<phone_type>P20</phone_type>
+	<phone_price>150000</phone_price>
+	<color>rosegold</color>
+</device>
+<device>
+	<brand_name>Huawei</brand_name>
+	<phone_type>P20 Pro</phone_type>
+	<phone_price>200000</phone_price>
+	<color>black</color>
+</device>
+<device>
+	<brand_name>Apple</brand_name>
+	<phone_type>iPhone 13</phone_type>
+	<phone_price>350000</phone_price>
+	<color>white</color>
+</device>
+</devices>
